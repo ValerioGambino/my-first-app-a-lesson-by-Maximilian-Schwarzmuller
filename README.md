@@ -1,5 +1,7 @@
 # MyFirstApp
 
+I do this project to follow the lecture of Maximillian on Udemy. Nothing special just a repo to track my progess.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.1.2.
 
 ## Development server
